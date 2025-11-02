@@ -34,6 +34,3 @@ git clone https://github.com/vednav9/nibodh-internship-frst-assignment-sample-of
 ```
 ### 2. Open the Project
 Simply open the index.html file in any web browser.
-
-## Preview
-<p align="center"> <img src="image.png" alt="Project Preview"/> </p>
