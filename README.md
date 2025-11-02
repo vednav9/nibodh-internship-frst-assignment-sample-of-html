@@ -1,14 +1,13 @@
-# 🌐 Sample of HTML
+# Sample of HTML
 
-This project is a **simple static website built using HTML** to demonstrate basic web development concepts and foundational knowledge of HTML structure and tags.  
-It was created as part of my internship at **Nibodh** to showcase my understanding of core web markup principles.
+A **simple static webpage** built using **HTML5** to demonstrate basic web structure and tag usage.  
+Created during my internship at **Nibodh** to showcase understanding of core HTML concepts.
 
 ---
 
-## 📘 Project Overview
+## 📘 Overview
 
-The **Sample of HTML** project focuses on using standard HTML elements to build a clean, readable, and structured webpage.  
-It highlights how semantic HTML can be used to create accessible and organized content layouts.
+This project highlights the use of semantic HTML elements to create a clear and well-structured webpage layout.
 
 ---
 
@@ -37,4 +36,4 @@ git clone https://github.com/vednav9/nibodh-internship-frst-assignment-sample-of
 Simply open the index.html file in any web browser.
 
 ## Preview
-![Preview](images/screenshot.png)
+<p align="center"> <img src="image.png" alt="Project Preview"/> </p>
